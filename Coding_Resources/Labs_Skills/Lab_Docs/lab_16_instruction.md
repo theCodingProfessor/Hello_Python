@@ -27,10 +27,10 @@ def main():
     # Handle File System Navigation
     os_navigate_features()
 
-    # Create and Remove Resources (Directories)
+    # Create and Remove Coding_Resources (Directories)
     os_directory_features()
 
-    # Create and Remove Resources (Files)
+    # Create and Remove Coding_Resources (Files)
     os_file_features()
 
     return
@@ -48,7 +48,7 @@ def os_navigate_features():
     print(f'\tCurrent directory: {os.getcwd()}')
 
     # Display any resources found in the working directory
-    print(f'\tResources Found: {os.listdir(".")}')
+    print(f'\tCoding_Resources Found: {os.listdir(".")}')
 
     return
 ```
@@ -88,7 +88,7 @@ def os_directory_features():
 ```python
 def os_file_features():
     print(f'\nInside os_file_features')
-    print(f'\tInitial Resources: {os.listdir(".")}')
+    print(f'\tInitial Coding_Resources: {os.listdir(".")}')
 
     # Create a new file in the directory
     filename = "test_file.txt"
@@ -103,7 +103,7 @@ def os_file_features():
 
     # List files in the current directory
     print(f'\tIn this location: {os.getcwd()}')
-    print(f'\tResources Found: {os.listdir(".")}')
+    print(f'\tCoding_Resources Found: {os.listdir(".")}')
 
     # Optional: Remove the file
     # os.remove(filename)
@@ -202,7 +202,7 @@ def os_navigate_features():
     print(f'\tCurrent directory: {os.getcwd()}')
 
     # Display any resources found in working directory
-    print(f'\tResources Found: {os.listdir(".")}')
+    print(f'\tCoding_Resources Found: {os.listdir(".")}')
 
     return
 
@@ -233,7 +233,7 @@ def os_directory_features():
 
 def os_file_features():
     print(f'\nInside os_create_file')
-    print(f'\tInitial Resources: {os.listdir(".")}')
+    print(f'\tInitial Coding_Resources: {os.listdir(".")}')
 
     # Create a new file in the directory
     filename = "test_file.txt"
@@ -248,7 +248,7 @@ def os_file_features():
 
     # List files in the current directory
     print(f'\tIn this location: {os.getcwd()}')
-    print(f'\tResources Found: {os.listdir(".")}')
+    print(f'\tCoding_Resources Found: {os.listdir(".")}')
 
     # Optional Remove the file
     # os.remove(filename)
@@ -266,10 +266,10 @@ def main():
     # Handle File System Navigation
     os_navigate_features()
 
-    # Create and Remove Resources (Directories)
+    # Create and Remove Coding_Resources (Directories)
     os_directory_features()
 
-    # Create and Remove Resources (Files)
+    # Create and Remove Coding_Resources (Files)
     os_file_features()
 
     return

@@ -12,8 +12,8 @@
 # total value of the phones, total sales tax collected,
 # and total sales for that session.
 
-# Resources of Students
-# Syntax Help - Resources:
+# Coding_Resources of Students
+# Syntax Help - Coding_Resources:
 # https://www.w3schools.com/python/python_functions.asp
 # https://www.w3schools.com/python/python_ref_functions.asp
 # https://www.w3schools.com/python/ref_func_format.asp

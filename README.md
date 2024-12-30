@@ -18,7 +18,7 @@ Welcome to this repository, which offers a comprehensive collection of learning 
 ### Visual Examples  
 - Includes images of code and the IDE (coding environment) shown in tutorial videos.  
 
-![Coding Environment Shown](Resources/Static/code_env.png "Coding Environment Shown In Videos")
+![Coding Environment Shown](Coding_Resources/Static/code_env.png "Coding Environment Shown In Videos")
 
 ---
 

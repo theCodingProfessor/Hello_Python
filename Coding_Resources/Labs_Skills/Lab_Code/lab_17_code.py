@@ -84,10 +84,10 @@ def main():
     # Review the scope of imports and logger initialization
     name_string = input(f'\tProvide a name for a file or directory: ')
 
-    # Create and Remove Resources (Files)
+    # Create and Remove Coding_Resources (Files)
     os_file_handling(name_string)
 
-    # Create and Remove Resources (Directories)
+    # Create and Remove Coding_Resources (Directories)
     path_file_handling(name_string)
 
     # Introduce Try-Catch Feature

@@ -4,7 +4,7 @@
 # CIS-135 Python
 # For Loop Lecture
 
-# Syntax Resources:
+# Syntax Coding_Resources:
 # https://www.w3schools.com/python/python_for_loops.asp
 
 # Python Docs:

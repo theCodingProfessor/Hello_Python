@@ -6,7 +6,7 @@
 # hw_assignment_3.py
 # CIS-135 Python
 
-# Resources:
+# Coding_Resources:
 # https://www.w3schools.com/python/ref_string_format.asp
 # https://www.w3schools.com/python/python_string_formatting.asp
 # https://www.w3schools.com/python/python_strings.asp
