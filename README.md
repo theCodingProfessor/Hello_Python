@@ -65,7 +65,7 @@ Learn to design and build applications through the following projects:
 
 ## Additional Resources  
 
-- **Packaged Resources:** Download the complete code and assignments as a [zip fle](Code_Assignments_Collection.zip).  
+- **Packaged Resources:** Download the complete code and assignments as a [zip file](https://github.com/theCodingProfessor/Hello_Python/archive/refs/heads/main.zip).
 - **Prototype Collection:** Explore the 2021 prototype, which contains only source code.  
 
 ---
