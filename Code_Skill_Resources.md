@@ -66,98 +66,98 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
 ## **Full Lab Resources**  
 
 ### **Lab 01: Hello World**  
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_01_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_01_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_01_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_01_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Running the Code]()
  
 ### **Lab 02: Comments, Variables, Formatted Printing**  
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_02_instruction.md)  
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_02_code.py)  
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_02_instruction.md)  
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_02_code.py)  
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()  
    - [Video 2: Running the Code]()  
 
 ### **Lab 03: User Input and Program Flow**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_03_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_03_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_03_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_03_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Running the Code]()
 
 ### **Lab 04: User Input and Data Types**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_04_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_04_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_04_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_04_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Running the Code]()
 
 ### **Lab 05: IF and Conditional Statements**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_05_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_05_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_05_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_05_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Running the Code]()
 
 ### **Lab 06: AND/OR Compound Evaluations**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_06_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_06_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_06_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_06_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Refactoring Code and Pythonic AND statement]()
    - [Video 3: Traditional AND, also OR statement]()
 
 ### **Lab 07: While Loops, Counter Variables**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_07_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_07_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_07_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_07_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: While Loop Syntax]()
    - [Video 3: A Small Counting App with a While Loop]()
 
 ### **Lab 08: For Loops and List Enumeration**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_08_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_08_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_08_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_08_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: For Loops with range() function]()
    - [Video 3: For Loops with enumerate() function]()
 
 ### **Lab 09: Outer and Inner Loops, Nesting**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_09_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_09_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_09_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_09_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Coding the nested incrementing loop]()
    - [Video 3: Coding the nested decrementing loop]()
 
 ### **Lab 10: Functions Reuse, Call Code**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_10_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_10_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_10_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_10_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Coding simple functions]()
    - [Video 3: Coding and calling functions that receive and return values]()
 
 ### **Lab 11: Passing Functions as Parameters**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_11_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_11_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_11_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_11_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Coding Nested Function calls]()
 
 ### **Lab 12: Arrays, Lists, Tuples**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_12_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_12_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_12_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_12_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    -  [Video 2: Coding Lists and First Loops encoding data]()
    - [Video 3: Coding Lists and Second Loops decoding data]()
 
 ### **Lab 13: Dictionaries Key Value Data**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_13_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_13_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_13_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_13_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Accessing row list items]()
@@ -165,16 +165,16 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
    - [Video 4: Transposing columns to rows using zip(*)]()
 
 ### **Lab 14: Multi-Dimensional Arrays**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_14_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_14_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_14_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_14_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Creating a Sample Dictionary]()
    - [Video 3: Creating and Query a Full Dictionary]()
 
 ### **Lab 15: Python Libraries (i.e., logging)**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_15_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_15_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_15_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_15_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Create and use a generic logger from the logger library]()
@@ -182,8 +182,8 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
    - [Video 4: Create and use a Stream Logger]()
 
 ### **Lab 16: Python Libraries (i.e., os)**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_16_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_16_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_16_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_16_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Review of code for Lab 16]()
@@ -192,8 +192,8 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
    - [Video 5: Create Files using os library]()
 
 ### **Lab 17: Try-Catch Error Handling**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_17_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_17_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_17_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_17_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Using Try-Except to Handle Errors]()
@@ -201,16 +201,16 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
    - [Video 4: Avoiding Errors using os Library]()
 
 ### **Lab 18: Read Format Data Files**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_18_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_18_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_18_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_18_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Creating and Writing to a File]()
    - [Video 3: Reading from a File]()
 
 ### **Lab 19: File IO: Read, Write Byte-Data**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_19_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_19_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_19_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_19_code.py)
  - Videos:  
    - [Video 1: Overview of Lab Encode/Decode and Setup]()
    - [Video 2: Set up main Function]()
@@ -218,24 +218,24 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
    - [Video 4: Read Byte and String (decode)]()
 
 ### **Lab 20: Python Class, Data Members, Methods**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_20_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_20_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_20_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_20_code.py)
  - Videos:  
    - [Video 1: Overview of Class, Objects Lab and Setup]()
    - [Video 2: Constructor, Getters and Setters]()
    - [Video 3: Coding the Methods of a Class]()
 
 ### **Lab 21: External Python Class File**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_21_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_21_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_21_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_21_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: ]()
    - [Video 3: ]()
 
 ### **Lab 22: Object Inheritance, Two-Class**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_22_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_22_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_22_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_22_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: AppUser Parent Class]()
@@ -243,8 +243,8 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
    - [Video 4: Using the Classes]()
 
 ### **Lab 23: Polymorphism, Multiple Inheritance**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_23_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_23_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_23_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_23_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: ]()
@@ -254,8 +254,8 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
    - [Video 6]()
 
 ### **Lab 24: Object Store, Database, Serialization**
- - [Instructions](Resources/Labs_Skills/Lab_Docs/lab_24_instruction.md)
- - [Source_Code](Resources/Labs_Skills/Lab_Code/lab_24_code.py)
+ - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_24_instruction.md)
+ - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_24_code.py)
  - Videos:  
    - [Video 1: Overview of Lab and Setup]()
    - [Video 2: Serialize Pickle]()

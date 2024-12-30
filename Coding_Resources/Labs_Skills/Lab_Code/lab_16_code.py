@@ -77,10 +77,10 @@ def main():
     # Handle File System Navigation
     os_navigate_features()
 
-    # Create and Remove Resources (Directories)
+    # Create and Remove Coding_Resources (Directories)
     os_directory_features()
 
-    # Create and Remove Resources (Files)
+    # Create and Remove Coding_Resources (Files)
     os_file_features()
 
     return
