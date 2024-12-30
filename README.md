@@ -1,54 +1,79 @@
 
 # Hello Python
 
-This repository contains a collection of learning resources which are typically presented in an `Introduction to Programming using Python` undergraduate university computer science course.
+Welcome to this repository, which offers a comprehensive collection of learning resources typically presented in an **Introduction to Programming Using Python** undergraduate course.  
 
-<hr>
+## Repository Highlights  
 
-Full-Text Resources Include Assignments and Python Source Code Solutions
-- Twenty-Four (24) Hands-on Labs (Assignment and Solutions)
-- Four (4) Full Applications (Progressive Design Documents and Source Code)
+### Full-Text Resources  
+- **Assignments and Python Source Code Solutions**  
+  - 24 Hands-on Labs (Assignments and Solutions)  
+  - 4 Full Applications (Progressive Design Documents and Source Code)  
 
-Closed Caption Screen Recordings for All Labs and Apps
-- Seventy-Six (76) Linked Screen-Recording Tutorials for all Lab Exercises
-- Twenty-One (21) Linked Screen-Recording Tutorials for Applications<br><br>
+### Closed-Captioned Screen Recordings  
+- **Recordings show full solution (from empty file to app) using Python**   
+- 76 Screen-Recording Tutorials for Lab Exercises  
+- 21 Screen-Recording Tutorials for Applications  
 
-Image of Code and IDE (Code Environment) shown in Tutorial Videos
+### Visual Examples  
+- Includes images of code and the IDE (coding environment) shown in tutorial videos.  
+
 ![Coding Environment Shown](Resources/Static/code_env.png "Coding Environment Shown In Videos")
 
+---
 
-## Learning Outcomes and Topics
+## Learning Outcomes  
+
+This repository covers a wide range of programming concepts and skills, including:  
+- **Basic Programming Techniques**  
+- **Object-Oriented Programming Concepts**  
+- **Data Structures and Computing Topics**  
+- **Application Design and Software Lifecycle Concepts**  
+
 [Full list of Learning Outcomes](Learning_Outcomes.md)
-- Basic Programming Techniques
-- Object-Oriented Programming Concepts
-- Data Structures and Computing Topics
-- Application Design and Software Lifecycle Concepts
-    
-## Skill Labs Topics
+
+---
+
+## Skill Labs  
+
+These hands-on exercises help build foundational programming skills:  
+- Comments and Variables  
+- Conditional Statements (`if`, `else-if`, `else`)  
+- Loops: `for`, `while`, and nested loops  
+- Data Structures: Arrays and Dictionaries  
+- User-Declared Functions  
+- Error Handling and Exceptions  
+- Data Storage: Files, Serialization, and Databases  
+- Using Standard Libraries  
+- Object-Oriented Programming  
+
 [Full list of Skills Labs](Code_Skill_Resources.md)
-- Comments and Variables 
-- Conditional Statements (If, Else-If, Else)
-- For Loop, While Loop, Nested Loops 
-- Data Structures as Arrays and Dictionaries
-- User Declared Functions 
-- Error Handling and Exceptions
-- Data Storage, Files, Serialized, Database
-- Using Standard Libraries
-- Object Oriented Programming 
 
-## Application Development Topics 
+---
+
+## Application Development  
+
+Learn to design and build applications through the following projects:  
+1. **Handling User Input**  
+2. **Simple Math Calculator Using Functions**  
+3. **Personal Journal: Save Text Data to a File**  
+4. **Vocabulary List/Lookup Object Collection**  
+
 [Full list of Apps](Application_Resources.md)
-- App 1: Handling User input 
-- App 2: Simple Math Calculator using Functions
-- App 3: Personal Journal Save Text Data to a File
-- App 4: Vocab List/Lookup Object Collection
 
-<hr>
+---
 
-## Packaged Resources
-The Code and Assignments Collection can be downloaded as a zip file [Code and Collection Zip](Code_Assignments_Collection.zip)<br><br>
-The prototype to that collection, [year_2021](Archive/year_2021) contains only source code, not assignments.
+## Additional Resources  
 
+- **Packaged Resources:** Download the complete code and assignments as a [zip fle](Code_Assignments_Collection.zip).  
+- **Prototype Collection:** Explore the 2021 prototype, which contains only source code.  
 
-<hr>
-CC by Clinton Garwood and MIT License else &copy; 2025  
+---
+
+## Get Started  
+
+Dive into the labs, applications, and tutorials to begin your Python programming journey. Feedback and contributions are welcome!  
+
+---
+
+This repository is licensed under CC by Clinton Garwood and MIT License. All other content is © 2025. 
