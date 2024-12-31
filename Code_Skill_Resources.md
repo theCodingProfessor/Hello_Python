@@ -69,21 +69,21 @@ The labs below cover a wide range of Python concepts. Start from the top and pro
  - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_01_instruction.md)
  - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_01_code.py)
  - Videos:  
-   - [Video 1: Overview of Lab and Setup]()
-   - [Video 2: Running the Code]()
- 
+   - [Video 1: Setting up PyCharm Editor](https://youtu.be/lJOPrOI7HvU)
+   - [Video 1: Setting up VS CODE Editor](https://youtu.be/2xAuYP2Wx9w)
+   - [Video 3: Overview and Printing Hello World](https://youtu.be/DteZsqNdAsY)
+
 ### **Lab 02: Comments, Variables, Formatted Printing**  
  - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_02_instruction.md)  
  - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_02_code.py)  
  - Videos:  
-   - [Video 1: Overview of Lab and Setup]()  
-   - [Video 2: Running the Code]()  
+   - [Video 1: Overview of Lab and Setup](https://youtu.be/c0a0KktIWIk)  
 
 ### **Lab 03: User Input and Program Flow**
  - [Instructions](Coding_Resources/Labs_Skills/Lab_Docs/lab_03_instruction.md)
  - [Source_Code](Coding_Resources/Labs_Skills/Lab_Code/lab_03_code.py)
  - Videos:  
-   - [Video 1: Overview of Lab and Setup]()
+   - [Video 1: Overview of Lab and Setup](https://youtu.be/i8RaoXsxuRw)
    - [Video 2: Running the Code]()
 
 ### **Lab 04: User Input and Data Types**
